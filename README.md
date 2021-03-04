@@ -2,7 +2,7 @@
 
 Simple pong clone I made using SFML and C++, for showcase.
 
-How to compile on Windows(MinGW Compiler) : ```g++ main.cpp -lsfml-graphics -lsfml-window -lsfml-system```
+How to compile on Windows(MinGW Compiler) : ```g++ main.cpp -lsfml-graphics -lsfml-window -lsfml-system -s -Os -W```
 
 MinGW Compiler : https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download
 
