@@ -1,4 +1,4 @@
-#include <SFML/Graphics.hpp> // PONG PORT FROM RAYLIB.
+#include <SFML/Graphics.hpp> // PONG PORT FROM RAYLIB. Copyright 2021 George Lynntone.
 #include <time.h> // Uses time to seed RNG.
 int main() {
 	srand(time(0)); 
